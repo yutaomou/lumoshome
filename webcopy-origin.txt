@@ -1,0 +1,196 @@
+Uri: https://clerk.suno.com/npm/@clerk/clerk-js@5.62.0/dist/clerk.browser.js
+File Name: C:\Downloaded Web Sites\suno.com\npm\@clerk\clerk-js@5.62.0\dist\clerk.browser.js
+Content Type: application/javascript
+
+Uri: https://onelinksmartscript.appsflyer.com/onelink-smart-script-latest.js
+File Name: C:\Downloaded Web Sites\suno.com\onelink-smart-script-latest.js
+Content Type: application/javascript
+
+Uri: https://suno.com/favicon.ico
+File Name: C:\Downloaded Web Sites\suno.com\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://suno.com/home
+File Name: C:\Downloaded Web Sites\suno.com\home.html
+Content Type: text/html
+
+Uri: https://suno.com/_next/static/chunks/1054-34844d08f3a74f87.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\1054-34844d08f3a74f87.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/1490-8a9f88e68157138b.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\1490-8a9f88e68157138b.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/1791-e6e2f04e5148e8d0.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\1791-e6e2f04e5148e8d0.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/2-f0f5ff549e61e7e6.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\2-f0f5ff549e61e7e6.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/27-02e102f1cb224470.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\27-02e102f1cb224470.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/274-1d56b07a62b08b6a.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\274-1d56b07a62b08b6a.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/3248-9737994eb5af4e1f.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\3248-9737994eb5af4e1f.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/3672-3f9f597c44088a0d.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\3672-3f9f597c44088a0d.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/39209d7c-b7692e25c187f5d9.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\39209d7c-b7692e25c187f5d9.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/394-9de5e29b7963f845.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\394-9de5e29b7963f845.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/3960-6b5d736bad822907.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\3960-6b5d736bad822907.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/396464d2-028721de49de937e.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\396464d2-028721de49de937e.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/4692-dd50b5f023678871.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\4692-dd50b5f023678871.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/4bd1b696-6a6cb403c8e59bb6.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\4bd1b696-6a6cb403c8e59bb6.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/5883-a642b36ddb311385.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\5883-a642b36ddb311385.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/6299-4e4d8909f692c6e1.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\6299-4e4d8909f692c6e1.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/630-60f05a2054510d18.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\630-60f05a2054510d18.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/6334-1c5072fe223f1736.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\6334-1c5072fe223f1736.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/6468630d-1d0ab54614e0e1ab.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\6468630d-1d0ab54614e0e1ab.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/6474-7e0415f665bf26e9.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\6474-7e0415f665bf26e9.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/6563-725d4bebf374d6bb.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\6563-725d4bebf374d6bb.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/7119-c72fc497bab83d9c.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\7119-c72fc497bab83d9c.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/7141-00623ce4ebd18eca.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\7141-00623ce4ebd18eca.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/7248-de49b5efac83fc2f.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\7248-de49b5efac83fc2f.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/7890-a5b4fa8db8205098.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\7890-a5b4fa8db8205098.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/8153-1ff6583607f35db0.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\8153-1ff6583607f35db0.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/875-bb1a8d6dbe703938.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\875-bb1a8d6dbe703938.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/8954-6553af55e249ca59.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\8954-6553af55e249ca59.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/9081a741-b844999b87b6851a.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\9081a741-b844999b87b6851a.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/9286-1b1a345e01abbbfa.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\9286-1b1a345e01abbbfa.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/9561-9a60804f08d059b3.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\9561-9a60804f08d059b3.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/9603-18cb54f83a421aee.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\9603-18cb54f83a421aee.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/9650-f889074c9f6098cf.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\9650-f889074c9f6098cf.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/app/(marketing)/home/page-bc2390eff6f351ae.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\app\(marketing)\home\page-bc2390eff6f351ae.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/app/(marketing)/layout-62413a52852dede9.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\app\(marketing)\layout-62413a52852dede9.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/app/(root)/layout-3f4c1d40e1393b2d.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\app\(root)\layout-3f4c1d40e1393b2d.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/app/global-error-bd07affb3c1117e8.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\app\global-error-bd07affb3c1117e8.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/bc9c3264-c6af5a27564cb181.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\bc9c3264-c6af5a27564cb181.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/f6d0a8ec-b73f290f6147ee0a.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\f6d0a8ec-b73f290f6147ee0a.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/main-app-dd1e8782d93563e9.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\main-app-dd1e8782d93563e9.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/polyfills-42372ed130431b0a.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/chunks/webpack-54fbbad03822d285.js
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\chunks\webpack-54fbbad03822d285.js
+Content Type: application/javascript
+
+Uri: https://suno.com/_next/static/css/666504f0908095ae.css
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\css\666504f0908095ae.css
+Content Type: text/css
+
+Uri: https://suno.com/_next/static/css/98a7deff1aff5458.css
+File Name: C:\Downloaded Web Sites\suno.com\_next\static\css\98a7deff1aff5458.css
+Content Type: text/css
+
+Uri: https://web-sdk-cdn.singular.net/singular-sdk/latest/singular-sdk.js
+File Name: C:\Downloaded Web Sites\suno.com\singular-sdk\latest\singular-sdk.js
+Content Type: application/javascript
+
